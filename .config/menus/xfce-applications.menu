@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Xfce</Name>
+	<MergeFile type="parent">/etc/xdg/menus/xfce-applications.menu</MergeFile>
+	<Menu>
+		<Name>Documentation</Name>
+		<AppDir>/home/jasonshi/.local/share/applications</AppDir>
+		<Include>
+			<Filename>qt5-assistant.desktop</Filename>
+		</Include>
+	</Menu>
+</Menu>

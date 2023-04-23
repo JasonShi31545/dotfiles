@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="last_folder" mtime="1678610738" type="string">
+		<stringvalue>/home/jasonshi/Downloads</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,82 @@
+**** BEGIN LOGGING AT Sat Jul 30 23:06:50 2022
+
+Jul 30 23:06:50 *	Now talking on #channel2
+Jul 30 23:06:59 <test>	Hi from channel 2
+Jul 30 23:07:07 <jason>	Shut the fuck up
+Jul 30 23:07:10 *	#channel2 :You must be a channel operator
+Jul 30 23:07:19 *	#channel2 :You must be a channel operator
+Jul 30 23:07:32 *	13.215.161.45 sets mode +o on jason
+Jul 30 23:07:36 <jason>	kick test
+Jul 30 23:07:41 *	#channel2 :You must be a channel operator
+Jul 30 23:08:35 Bad arguments for user command.
+Jul 30 23:08:38 Bad arguments for user command.
+Jul 30 23:08:39 
+Commands Available:
+
+Jul 30 23:08:39   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+Jul 30 23:08:39   AWAY      BACK      BAN       CHANOPT   CHARSET
+Jul 30 23:08:39   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+Jul 30 23:08:39   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+Jul 30 23:08:39   DEVOICE   DISCON    DNS       DOAT      ECHO
+Jul 30 23:08:39   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+Jul 30 23:08:39   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+Jul 30 23:08:39   GETSTR    GHOST     GUI       HELP      HOP
+Jul 30 23:08:39   ID        IGNORE    INVITE    JOIN      KICK
+Jul 30 23:08:39   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+Jul 30 23:08:39   LOAD      MDEHOP    MDEOP     ME        MENU
+Jul 30 23:08:39   MHOP      MKICK     MODE      MOP       MSG
+Jul 30 23:08:39   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+Jul 30 23:08:39   NOTIFY    OP        PART      PING      QUERY
+Jul 30 23:08:39   QUIET     QUIT      QUOTE     RECONNECT RECV
+Jul 30 23:08:39   RELOAD    SAY       SEND      SERVCHAN  SERVER
+Jul 30 23:08:39   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+Jul 30 23:08:39   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+Jul 30 23:08:39   UNQUIET   URL       USELECT   USERLIST  VOICE
+Jul 30 23:08:39   WALLCHAN  WALLCHOP  
+Jul 30 23:08:39 
+User defined commands:
+
+Jul 30 23:08:39   ACTION    AME       ANICK     AMSG      BANLIST
+Jul 30 23:08:39   CHAT      DIALOG    DMSG      EXIT      GREP
+Jul 30 23:08:39   IGNALL    J         KILL      LEAVE     M
+Jul 30 23:08:39   OMSG      ONOTICE   RAW       SERVHELP  SPING
+Jul 30 23:08:39   SQUERY    SSLSERVER SV        UMODE     UPTIME
+Jul 30 23:08:39   VER       VERSION   WALLOPS   WI        WII
+Jul 30 23:08:39   
+Jul 30 23:08:39 
+Plugin defined commands:
+
+Jul 30 23:08:39   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+Jul 30 23:08:39   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+Jul 30 23:08:39   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+Jul 30 23:08:39   RELOAD    UNLOAD    LOAD      ME        MSG+
+Jul 30 23:08:39   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+Jul 30 23:08:39   CHECKSUM  IDENTD    TIMER     
+Jul 30 23:08:39 
+Type /HELP <command> for more information, or /HELP -l
+
+Jul 30 23:08:44 <jason>	nice
+Jul 30 23:09:52 *	13.215.161.45 sets mode +o on jason
+Jul 30 23:09:59 <test>	asd
+Jul 30 23:10:02 *	#channel2 :You must be a channel operator
+Jul 30 23:10:19 *	You have been kicked from #channel2 by test (test)
+**** ENDING LOGGING AT Sat Jul 30 23:10:19 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 23:11:02 2022
+
+Jul 30 23:11:02 *	Now talking on #channel2
+Jul 30 23:11:05 <jason>	ls
+Jul 30 23:11:09 <test>	-_-
+Jul 30 23:11:13 <test>	(y) (y) (y)
+Jul 30 23:11:17 <test>	X)
+Jul 30 23:11:22 <test>	D: D: D:
+Jul 30 23:11:27 <test>	</3 </3 </3
+Jul 30 23:11:32 <test>	O:3 O:3 O:3
+Jul 30 23:11:39 <jason>	nice
+Jul 30 23:11:46 <jason>	696969
+Jul 30 23:19:26 <test>	ls
+Jul 30 23:19:31 *	test has quit (Client exited)
+Jul 30 23:19:46 *	test (7a0bb280@87.98.219.117) has joined
+Jul 30 23:19:59 *	test (7a0bb280@87.98.219.117) has left
+**** ENDING LOGGING AT Sat Jul 30 23:20:24 2022
+

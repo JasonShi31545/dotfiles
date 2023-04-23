@@ -1,0 +1,124 @@
+# Tor state file last generated on 2022-06-15 17:10:00 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 725 1
+CircuitBuildTimeBin 765 1
+CircuitBuildTimeBin 795 1
+CircuitBuildTimeBin 835 1
+CircuitBuildTimeBin 865 2
+CircuitBuildTimeBin 945 2
+CircuitBuildTimeBin 955 1
+CircuitBuildTimeBin 965 1
+CircuitBuildTimeBin 1015 1
+CircuitBuildTimeBin 1025 1
+CircuitBuildTimeBin 1045 2
+CircuitBuildTimeBin 1065 2
+CircuitBuildTimeBin 1085 1
+CircuitBuildTimeBin 1095 1
+CircuitBuildTimeBin 1105 1
+CircuitBuildTimeBin 1115 1
+CircuitBuildTimeBin 1125 3
+CircuitBuildTimeBin 1145 2
+CircuitBuildTimeBin 1155 2
+CircuitBuildTimeBin 1185 2
+CircuitBuildTimeBin 1195 3
+CircuitBuildTimeBin 1205 1
+CircuitBuildTimeBin 1215 1
+CircuitBuildTimeBin 1245 3
+CircuitBuildTimeBin 1275 2
+CircuitBuildTimeBin 1305 1
+CircuitBuildTimeBin 1315 1
+CircuitBuildTimeBin 1335 3
+CircuitBuildTimeBin 1345 1
+CircuitBuildTimeBin 1355 4
+CircuitBuildTimeBin 1365 1
+CircuitBuildTimeBin 1385 2
+CircuitBuildTimeBin 1395 1
+CircuitBuildTimeBin 1405 1
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1455 1
+CircuitBuildTimeBin 1485 1
+CircuitBuildTimeBin 1495 2
+CircuitBuildTimeBin 1505 2
+CircuitBuildTimeBin 1515 2
+CircuitBuildTimeBin 1525 2
+CircuitBuildTimeBin 1535 1
+CircuitBuildTimeBin 1545 1
+CircuitBuildTimeBin 1555 2
+CircuitBuildTimeBin 1565 2
+CircuitBuildTimeBin 1585 3
+CircuitBuildTimeBin 1595 5
+CircuitBuildTimeBin 1615 1
+CircuitBuildTimeBin 1645 1
+CircuitBuildTimeBin 1655 3
+CircuitBuildTimeBin 1665 1
+CircuitBuildTimeBin 1675 1
+CircuitBuildTimeBin 1685 1
+CircuitBuildTimeBin 1695 1
+CircuitBuildTimeBin 1705 1
+CircuitBuildTimeBin 1715 1
+CircuitBuildTimeBin 1735 1
+CircuitBuildTimeBin 1745 1
+CircuitBuildTimeBin 1755 1
+CircuitBuildTimeBin 1775 2
+CircuitBuildTimeBin 1785 2
+CircuitBuildTimeBin 1795 6
+CircuitBuildTimeBin 1805 2
+CircuitBuildTimeBin 1835 2
+CircuitBuildTimeBin 1845 1
+CircuitBuildTimeBin 1885 1
+CircuitBuildTimeBin 1895 1
+CircuitBuildTimeBin 1945 1
+CircuitBuildTimeBin 1965 1
+CircuitBuildTimeBin 1975 1
+CircuitBuildTimeBin 2005 1
+CircuitBuildTimeBin 2065 1
+CircuitBuildTimeBin 2145 1
+CircuitBuildTimeBin 2205 1
+CircuitBuildTimeBin 2215 1
+CircuitBuildTimeBin 2245 2
+CircuitBuildTimeBin 2265 1
+CircuitBuildTimeBin 2305 1
+CircuitBuildTimeBin 2375 1
+CircuitBuildTimeBin 2385 1
+CircuitBuildTimeBin 2445 1
+CircuitBuildTimeBin 2505 1
+CircuitBuildTimeBin 2515 2
+CircuitBuildTimeBin 2555 1
+CircuitBuildTimeBin 2605 1
+CircuitBuildTimeBin 2675 1
+CircuitBuildTimeBin 2715 1
+CircuitBuildTimeBin 2755 1
+CircuitBuildTimeBin 2775 1
+CircuitBuildTimeBin 2865 1
+CircuitBuildTimeBin 2975 1
+CircuitBuildTimeBin 3255 1
+CircuitBuildTimeBin 3735 1
+CircuitBuildTimeBin 3925 1
+CircuitBuildTimeBin 7755 1
+CircuitBuildAbandonedCount 1
+Dormant 0
+Guard in=default rsa_id=7EF043B4F4ABA62C2F3BF5E2017C4EC607E80B21 nickname=LemmiNode01 sampled_on=2022-05-31T01:54:01 sampled_idx=0 sampled_by=0.4.6.10 listed=1 confirmed_on=2022-06-03T14:45:21 confirmed_idx=1 pb_use_attempts=33.000000 pb_use_successes=33.000000 pb_circ_attempts=145.000000 pb_circ_successes=136.000000 pb_successful_circuits_closed=136.000000 pb_timeouts=6.000000
+Guard in=default rsa_id=B7F9052848DB77C0B96722E9A47AEEC2579ADC95 nickname=GummyGooseberry sampled_on=2022-06-02T06:10:36 sampled_idx=1 sampled_by=0.4.6.10 listed=1 confirmed_on=2022-06-02T01:50:25 confirmed_idx=2 pb_circ_attempts=4.000000 pb_circ_successes=4.000000 pb_successful_circuits_closed=4.000000
+Guard in=default rsa_id=AA88D4F5B05B4E7B200E29E23A5AE1A6FC2C7A7F nickname=indawoodz sampled_on=2022-06-02T22:53:25 sampled_idx=2 sampled_by=0.4.6.10 listed=1 confirmed_on=2022-05-26T16:22:24 confirmed_idx=0
+Guard in=default rsa_id=C40B75D3AC0DD6F3D452322D7EF461843B20EDBE nickname=LynxRelays sampled_on=2022-05-30T02:40:03 sampled_idx=3 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=B5C3425C8FE0E9A8B33C543951EC8B8577525C8A nickname=maiden sampled_on=2022-05-29T13:05:26 sampled_idx=4 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=86A5554B40F08E02AE2E33FF1D3A3720A6789FD5 nickname=relay07V6Rocks sampled_on=2022-05-29T10:47:51 sampled_idx=5 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=B849824F8FCD7AEB130DF356F592BA40C686CA08 nickname=mj2 sampled_on=2022-06-01T10:04:45 sampled_idx=6 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=BA053C72E476C1EB9D05237D0D6A289C18FBE8E7 nickname=straDEicebeer02b sampled_on=2022-05-25T10:23:54 sampled_idx=7 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=C7396325DE9071E58EEF5A42FD487F81117CFFC4 nickname=Unnamed sampled_on=2022-06-03T12:58:44 sampled_idx=8 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=EBE718E1A49EE229071702964F8DB1F318075FF8 nickname=fluxe4 sampled_on=2022-05-30T01:46:41 sampled_idx=9 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=C3DFB7BD40B072EB6D46578F1BE021FDD9D60713 nickname=imherefortheparty sampled_on=2022-05-23T20:20:57 sampled_idx=10 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=EE2A621042994B29452C12FF3B6F62D9E957758C nickname=Unnamed sampled_on=2022-05-25T20:32:32 sampled_idx=11 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=D777D31F95081D0F7223AAD5F8A74977D524145D nickname=slashcrypto sampled_on=2022-06-01T15:47:30 sampled_idx=12 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=29439EE9CBFA18D5622157F8462A36B7C457BC76 nickname=ForPrivacyNET sampled_on=2022-05-25T05:47:03 sampled_idx=13 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=92E4D4900B84E4FB11A771C37EEBAA0931CF8B41 nickname=nodv05 sampled_on=2022-05-28T23:25:34 sampled_idx=14 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=2C46046CFD6358F7D4F78EC8993CE149D3B9A481 nickname=FreeAssange2022 sampled_on=2022-05-29T13:06:59 sampled_idx=15 sampled_by=0.4.6.10 unlisted_since=2022-06-11T02:58:43 listed=0
+Guard in=default rsa_id=21AC6EF15C86641CE623B8A08D64144BCAC14AEC nickname=Assange013us2 sampled_on=2022-05-30T13:16:05 sampled_idx=16 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=945FC4C24461379C93C5119C0DCDD735DDD943A3 nickname=apollon sampled_on=2022-05-30T14:58:53 sampled_idx=17 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=721A251658BA2240EED110C078334AB2DF6C309C nickname=as212520 sampled_on=2022-05-23T21:41:07 sampled_idx=18 sampled_by=0.4.6.10 listed=1
+Guard in=default rsa_id=CDF6D24EFA0573C04950BB1FEDBF83A54B8B10F4 nickname=RDPdotSH sampled_on=2022-05-27T13:19:47 sampled_idx=19 sampled_by=0.4.6.10 unlisted_since=2022-06-11T03:52:55 listed=0
+LastWritten 2022-06-15 09:10:00
+TorVersion Tor 0.4.6.10
+TotalBuildTimes 141

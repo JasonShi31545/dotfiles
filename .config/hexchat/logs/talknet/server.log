@@ -1,0 +1,135 @@
+**** BEGIN LOGGING AT Sat Jul 30 21:54:40 2022
+
+Jul 30 21:54:40 *	Looking up 18.143.65.228
+**** BEGIN LOGGING AT Sat Jul 30 21:54:50 2022
+
+Jul 30 21:54:50 *	Looking up 18.143.65.228
+Jul 30 21:54:50 *	Connecting to 18.143.65.228 (18.143.65.228:6697)
+Jul 30 21:54:50 *	Connection failed (Connection refused)
+Jul 30 21:55:00 Cycling to next server in TalkNet...
+Jul 30 21:55:00 *	Disconnected ()
+**** ENDING LOGGING AT Sat Jul 30 21:55:00 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 21:55:00 2022
+
+Jul 30 21:55:00 *	Looking up 18.143.65.228
+Jul 30 21:55:00 *	Connecting to 18.143.65.228 (18.143.65.228:6697)
+Jul 30 21:55:00 *	Connection failed (Connection refused)
+Jul 30 21:55:04 Sysinfo plugin unloaded
+Jul 30 21:55:04 Perl interface unloaded
+Jul 30 21:55:04 FiSHLiM plugin unloaded
+Jul 30 21:55:04 Checksum plugin unloaded
+**** ENDING LOGGING AT Sat Jul 30 21:55:04 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 21:57:40 2022
+
+Jul 30 21:57:40 *	Looking up 18.143.65.228
+Jul 30 21:57:40 *	Connecting to 18.143.65.228 (18.143.65.228:6697)
+Jul 30 21:57:40 *	Connection failed (Connection refused)
+Jul 30 21:57:50 Cycling to next server in TalkNet...
+Jul 30 21:57:50 *	Disconnected ()
+**** ENDING LOGGING AT Sat Jul 30 21:57:50 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 21:57:50 2022
+
+Jul 30 21:57:50 *	Looking up 18.143.65.228
+Jul 30 21:57:50 *	Connecting to 18.143.65.228 (18.143.65.228:6697)
+Jul 30 21:57:50 *	Connection failed (Connection refused)
+Jul 30 21:58:00 Cycling to next server in TalkNet...
+Jul 30 21:58:00 *	Disconnected ()
+**** ENDING LOGGING AT Sat Jul 30 21:58:00 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 21:58:00 2022
+
+Jul 30 21:58:00 *	Looking up 18.143.65.228
+Jul 30 21:58:00 *	Connecting to 18.143.65.228 (18.143.65.228:6697)
+Jul 30 21:58:00 *	Connection failed (Connection refused)
+Jul 30 21:58:10 Cycling to next server in TalkNet...
+Jul 30 21:58:10 *	Disconnected ()
+**** ENDING LOGGING AT Sat Jul 30 21:58:10 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 21:58:10 2022
+
+Jul 30 21:58:10 *	Looking up 18.143.65.228
+Jul 30 21:58:10 *	Connecting to 18.143.65.228 (18.143.65.228:6697)
+Jul 30 21:58:10 *	Connection failed (Connection refused)
+Jul 30 21:58:13 Sysinfo plugin unloaded
+Jul 30 21:58:13 Perl interface unloaded
+Jul 30 21:58:13 FiSHLiM plugin unloaded
+Jul 30 21:58:13 Checksum plugin unloaded
+**** ENDING LOGGING AT Sat Jul 30 21:58:13 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 23:29:56 2022
+
+Jul 30 23:29:56 Not connected. Try /server <host> [<port>]
+Jul 30 23:29:57 Not connected. Try /server <host> [<port>]
+**** ENDING LOGGING AT Sat Jul 30 23:30:03 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 23:37:09 2022
+
+Jul 30 23:37:09 Not connected. Try /server <host> [<port>]
+Jul 30 23:37:27 Not connected. Try /server <host> [<port>]
+Jul 30 23:37:29 Unknown Command q. Try /help
+Jul 30 23:37:32 
+Commands Available:
+
+Jul 30 23:37:32   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+Jul 30 23:37:32   AWAY      BACK      BAN       CHANOPT   CHARSET
+Jul 30 23:37:32   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+Jul 30 23:37:32   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+Jul 30 23:37:32   DEVOICE   DISCON    DNS       DOAT      ECHO
+Jul 30 23:37:32   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+Jul 30 23:37:32   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+Jul 30 23:37:32   GETSTR    GHOST     GUI       HELP      HOP
+Jul 30 23:37:32   ID        IGNORE    INVITE    JOIN      KICK
+Jul 30 23:37:32   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+Jul 30 23:37:32   LOAD      MDEHOP    MDEOP     ME        MENU
+Jul 30 23:37:32   MHOP      MKICK     MODE      MOP       MSG
+Jul 30 23:37:32   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+Jul 30 23:37:32   NOTIFY    OP        PART      PING      QUERY
+Jul 30 23:37:32   QUIET     QUIT      QUOTE     RECONNECT RECV
+Jul 30 23:37:32   RELOAD    SAY       SEND      SERVCHAN  SERVER
+Jul 30 23:37:32   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+Jul 30 23:37:32   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+Jul 30 23:37:32   UNQUIET   URL       USELECT   USERLIST  VOICE
+Jul 30 23:37:32   WALLCHAN  WALLCHOP  
+Jul 30 23:37:32 
+User defined commands:
+
+Jul 30 23:37:32   ACTION    AME       ANICK     AMSG      BANLIST
+Jul 30 23:37:32   CHAT      DIALOG    DMSG      EXIT      GREP
+Jul 30 23:37:32   IGNALL    J         KILL      LEAVE     M
+Jul 30 23:37:32   OMSG      ONOTICE   RAW       SERVHELP  SPING
+Jul 30 23:37:32   SQUERY    SSLSERVER SV        UMODE     UPTIME
+Jul 30 23:37:32   VER       VERSION   WALLOPS   WI        WII
+Jul 30 23:37:32   
+Jul 30 23:37:32 
+Plugin defined commands:
+
+Jul 30 23:37:32   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+Jul 30 23:37:32   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+Jul 30 23:37:32   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+Jul 30 23:37:32   RELOAD    UNLOAD    LOAD      ME        MSG+
+Jul 30 23:37:32   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+Jul 30 23:37:32   CHECKSUM  IDENTD    TIMER     
+Jul 30 23:37:32 
+Type /HELP <command> for more information, or /HELP -l
+
+Jul 30 23:37:44 Unknown Command shutdown. Try /help
+Jul 30 23:38:59 Unknown Command oper. Try /help
+**** ENDING LOGGING AT Sat Jul 30 23:39:33 2022
+
+**** BEGIN LOGGING AT Sun Jul 31 21:59:21 2022
+
+Jul 31 21:59:21 Not connected. Try /server <host> [<port>]
+Jul 31 21:59:22 Not connected. Try /server <host> [<port>]
+Jul 31 21:59:22 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Sun Jul 31 21:59:22 2022
+
+**** BEGIN LOGGING AT Mon Aug  1 19:17:44 2022
+
+Aug 01 19:17:44 Not connected. Try /server <host> [<port>]
+Aug 01 19:17:45 Not connected. Try /server <host> [<port>]
+Aug 01 19:17:46 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Mon Aug  1 19:17:46 2022
+

@@ -1,0 +1,35 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAJ+AAAApAAABQEAAAN3AAACgAAAAKYAAAT/AAADdQAAAAAAAAAAB4AAAAKAAAAApgAABP8AAAN1"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACEAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANIA////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 1,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Robert Homer",
+          "Fagles",
+          "Robert Homer",
+          "Fagles"
+        ],
+        "key": "/home/jasonshi/server/backup/home/docs/libros/The Iliad (Homer Robert Fagles) (Z-Library).epub",
+        "pathtoebook": "/home/jasonshi/server/backup/home/docs/libros/The Iliad (Homer Robert Fagles) (Z-Library).epub",
+        "timestamp": "2023-04-21T14:26:00.021Z",
+        "title": "The Iliad"
+      }
+    ]
+  }
+}

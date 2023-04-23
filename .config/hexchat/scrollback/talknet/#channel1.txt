@@ -1,0 +1,410 @@
+T 1659193085 19*	Now talking on 22#channel1
+T 1659193088 20<jason>30	hello!
+T 1659193132 
+Commands Available:
+
+T 1659193132   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+T 1659193132   AWAY      BACK      BAN       CHANOPT   CHARSET
+T 1659193132   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+T 1659193132   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+T 1659193132   DEVOICE   DISCON    DNS       DOAT      ECHO
+T 1659193132   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+T 1659193132   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+T 1659193132   GETSTR    GHOST     GUI       HELP      HOP
+T 1659193132   ID        IGNORE    INVITE    JOIN      KICK
+T 1659193132   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+T 1659193132   LOAD      MDEHOP    MDEOP     ME        MENU
+T 1659193132   MHOP      MKICK     MODE      MOP       MSG
+T 1659193132   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+T 1659193132   NOTIFY    OP        PART      PING      QUERY
+T 1659193132   QUIET     QUIT      QUOTE     RECONNECT RECV
+T 1659193132   RELOAD    SAY       SEND      SERVCHAN  SERVER
+T 1659193132   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+T 1659193132   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+T 1659193132   UNQUIET   URL       USELECT   USERLIST  VOICE
+T 1659193132   WALLCHAN  WALLCHOP  
+T 1659193132 
+User defined commands:
+
+T 1659193132   ACTION    AME       ANICK     AMSG      BANLIST
+T 1659193132   CHAT      DIALOG    DMSG      EXIT      GREP
+T 1659193132   IGNALL    J         KILL      LEAVE     M
+T 1659193132   OMSG      ONOTICE   RAW       SERVHELP  SPING
+T 1659193132   SQUERY    SSLSERVER SV        UMODE     UPTIME
+T 1659193132   VER       VERSION   WALLOPS   WI        WII
+T 1659193132   
+T 1659193132 
+Plugin defined commands:
+
+T 1659193132   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+T 1659193132   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+T 1659193132   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+T 1659193132   RELOAD    UNLOAD    LOAD      ME        MSG+
+T 1659193132   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+T 1659193132   CHECKSUM  IDENTD    TIMER     
+T 1659193132 
+Type /HELP <command> for more information, or /HELP -l
+
+T 1659193157 20<jason>30	Hello from Jason
+T 1659193170 20<jason>30	:Kajsdflsakjdf
+T 1659193171 20<jason>30	akdsjfldf
+T 1659193291 23*	test (7a0bb280@87.98.219.11723) has joined
+T 1659193294 18<test18>	ls
+T 1659193504 23*	basumeat (6f412430@87.98.219.11723) has joined
+T 1659193515 18<basumeat18>	I devour children
+T 1659193519 20<jason>30	Hi from Jason
+T 1659193525 20<jason>30	Nice
+T 1659193529 20<jason>30	I eat kids as well
+T 1659193532 18<basumeat18>	literally me
+T 1659193552 22*	26jason has kicked 18basumeat from 22#channel1 (24jason)
+T 1659193577 22*	26jason has kicked 18test from 22#channel1 (24jason)
+T 1659193736 20<jason>30	les
+T 1659193741 23*	test (7a0bb280@87.98.219.11723) has joined
+T 1659193747 18<test18>	I am back!
+T 1659193753 
+Commands Available:
+
+T 1659193753   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+T 1659193753   AWAY      BACK      BAN       CHANOPT   CHARSET
+T 1659193753   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+T 1659193753   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+T 1659193753   DEVOICE   DISCON    DNS       DOAT      ECHO
+T 1659193753   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+T 1659193753   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+T 1659193753   GETSTR    GHOST     GUI       HELP      HOP
+T 1659193753   ID        IGNORE    INVITE    JOIN      KICK
+T 1659193753   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+T 1659193753   LOAD      MDEHOP    MDEOP     ME        MENU
+T 1659193753   MHOP      MKICK     MODE      MOP       MSG
+T 1659193753   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+T 1659193753   NOTIFY    OP        PART      PING      QUERY
+T 1659193753   QUIET     QUIT      QUOTE     RECONNECT RECV
+T 1659193753   RELOAD    SAY       SEND      SERVCHAN  SERVER
+T 1659193753   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+T 1659193753   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+T 1659193753   UNQUIET   URL       USELECT   USERLIST  VOICE
+T 1659193753   WALLCHAN  WALLCHOP  
+T 1659193753 
+User defined commands:
+
+T 1659193753   ACTION    AME       ANICK     AMSG      BANLIST
+T 1659193753   CHAT      DIALOG    DMSG      EXIT      GREP
+T 1659193753   IGNALL    J         KILL      LEAVE     M
+T 1659193753   OMSG      ONOTICE   RAW       SERVHELP  SPING
+T 1659193753   SQUERY    SSLSERVER SV        UMODE     UPTIME
+T 1659193753   VER       VERSION   WALLOPS   WI        WII
+T 1659193753   
+T 1659193753 
+Plugin defined commands:
+
+T 1659193753   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+T 1659193753   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+T 1659193753   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+T 1659193753   RELOAD    UNLOAD    LOAD      ME        MSG+
+T 1659193753   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+T 1659193753   CHECKSUM  IDENTD    TIMER     
+T 1659193753 
+Type /HELP <command> for more information, or /HELP -l
+
+T 1659193756 22*	26jason has kicked 18test from 22#channel1 (24jason)
+T 1659194034 20<jason>30	lpo
+T 1659194065 20<jason>30	ls
+T 1659194165 20<jason>30	clear
+T 1659194173 23*	test (7a0bb280@87.98.219.11723) has joined
+T 1659194177 18<test18>	dsf
+T 1659194185 23*	smellypants123 (84937755@87.98.219.11723) has joined
+T 1659194190 20<jason>30	Hi
+T 1659194191 18<smellypants12318>	is eric here
+T 1659194194 20<jason>30	Yes
+T 1659194197 20<jason>30	I am Eric
+T 1659194201 18<smellypants12318>	ohhhh
+T 1659194204 18<smellypants12318>	i thought eric was test
+T 1659194207 18<smellypants12318>	hi test
+T 1659194207 20<jason>30	Yeah
+T 1659194211 18<smellypants12318>	this is kinda cool
+T 1659194215 18<smellypants12318>	does this work on school wifi?
+T 1659194215 20<jason>30	It is cool
+T 1659194217 20<jason>30	Yes
+T 1659194221 18<smellypants12318>	this is big
+T 1659194222 20<jason>30	It works globally
+T 1659194228 18<smellypants12318>	i can finally spam wayan
+T 1659194231 18<smellypants12318>	thats huge
+T 1659194232 20<jason>30	Yep
+T 1659194233 18<smellypants12318>	this is kinda wesome
+T 1659194237 18<smellypants12318>	awesome
+T 1659194244 18<smellypants12318>	im doing physics work
+T 1659194252 20<jason>30	Keep up the Physics work
+T 1659194255 18<smellypants12318>	gotta get more people
+T 1659194260 20<jason>30	Yes!
+T 1659194266 18<smellypants12318>	how many people can your server hold
+T 1659194269 20<jason>30	Send my instructions to the group chat
+T 1659194275 20<jason>30	I don't know
+T 1659194278 20<jason>30	maybe 100
+T 1659194284 20<jason>30	Text are simple to process
+T 1659194288 18<smellypants12318>	yeah i will send
+T 1659194296 18<smellypants12318>	no no surely text is super hard
+T 1659194318 20<jason>30	Alright, see you on Monday
+T 1659194371 19<smellypants123>	good night jason
+T 1659194371 24*	test has quit (Client exited)
+T 1659194377 18<smellypants12318>	bye test
+T 1659194387 23*	test (7a0bb280@87.98.219.11723) has joined
+T 1659194393 24*	test (7a0bb280@87.98.219.11724) has left
+T 1659194394 18<smellypants12318>	welcome test
+T 1659194395 18<smellypants12318>	ah
+T 1659194397 18<smellypants12318>	bye test
+T 1659194402 20<jason>30	Farewell test
+T 1659194523 
+Commands Available:
+
+T 1659194523   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+T 1659194523   AWAY      BACK      BAN       CHANOPT   CHARSET
+T 1659194523   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+T 1659194523   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+T 1659194523   DEVOICE   DISCON    DNS       DOAT      ECHO
+T 1659194523   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+T 1659194523   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+T 1659194523   GETSTR    GHOST     GUI       HELP      HOP
+T 1659194523   ID        IGNORE    INVITE    JOIN      KICK
+T 1659194523   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+T 1659194523   LOAD      MDEHOP    MDEOP     ME        MENU
+T 1659194523   MHOP      MKICK     MODE      MOP       MSG
+T 1659194523   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+T 1659194523   NOTIFY    OP        PART      PING      QUERY
+T 1659194523   QUIET     QUIT      QUOTE     RECONNECT RECV
+T 1659194523   RELOAD    SAY       SEND      SERVCHAN  SERVER
+T 1659194523   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+T 1659194523   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+T 1659194523   UNQUIET   URL       USELECT   USERLIST  VOICE
+T 1659194523   WALLCHAN  WALLCHOP  
+T 1659194523 
+User defined commands:
+
+T 1659194523   ACTION    AME       ANICK     AMSG      BANLIST
+T 1659194523   CHAT      DIALOG    DMSG      EXIT      GREP
+T 1659194523   IGNALL    J         KILL      LEAVE     M
+T 1659194523   OMSG      ONOTICE   RAW       SERVHELP  SPING
+T 1659194523   SQUERY    SSLSERVER SV        UMODE     UPTIME
+T 1659194523   VER       VERSION   WALLOPS   WI        WII
+T 1659194523   
+T 1659194523 
+Plugin defined commands:
+
+T 1659194523   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+T 1659194523   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+T 1659194523   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+T 1659194523   RELOAD    UNLOAD    LOAD      ME        MSG+
+T 1659194523   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+T 1659194523   CHECKSUM  IDENTD    TIMER     
+T 1659194523 
+Type /HELP <command> for more information, or /HELP -l
+
+T 1659194534 29*	#channel1 :End of channel ban list
+T 1659194714 23*	test2 (7a0be8fd@87.98.219.11723) has joined
+T 1659194727 18<test218>	this is an account with password
+T 1659194780 23*	test296 (7a0be8fd@87.98.219.11723) has joined
+T 1659194792 24*	test296 (7a0be8fd@87.98.219.11724) has left
+T 1659194796 24*	test2 (7a0be8fd@87.98.219.11724) has left
+T 1659194802 18<smellypants12318>	WELCOME TEST
+T 1659194804 18<smellypants12318>	NOOOO TEST
+T 1659194810 20<jason>30	Dude why are you still here
+T 1659194820 20<jason>30	wow
+T 1659194836 20<jason>30	turns out you can set a password
+T 1659194844 20<jason>30	so people won't impersonate you
+T 1659194845 18<smellypants12318>	thats coool
+T 1659194848 18<smellypants12318>	IMPOSTER
+T 1659194851 24*	smellypants123 has quit (Quit: Connection closed)
+T 1659194979 Bad arguments for user command.
+T 1659194982 Usage: PART [<channel>] [<reason>], leaves the channel, by default the current one
+T 1659194988 19*	You have left channel 22#channel1 (24Leaving)
+T 1659194993 20*	Disconnected (20)
+T 1659194996 Not connected. Try /server <host> [<port>]
+T 1659194997 Not connected. Try /server <host> [<port>]
+T 1659195112 19*	Now talking on 22#channel1
+T 1659195130 
+Commands Available:
+
+T 1659195130   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+T 1659195130   AWAY      BACK      BAN       CHANOPT   CHARSET
+T 1659195130   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+T 1659195130   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+T 1659195130   DEVOICE   DISCON    DNS       DOAT      ECHO
+T 1659195130   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+T 1659195130   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+T 1659195130   GETSTR    GHOST     GUI       HELP      HOP
+T 1659195130   ID        IGNORE    INVITE    JOIN      KICK
+T 1659195130   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+T 1659195130   LOAD      MDEHOP    MDEOP     ME        MENU
+T 1659195130   MHOP      MKICK     MODE      MOP       MSG
+T 1659195130   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+T 1659195130   NOTIFY    OP        PART      PING      QUERY
+T 1659195130   QUIET     QUIT      QUOTE     RECONNECT RECV
+T 1659195130   RELOAD    SAY       SEND      SERVCHAN  SERVER
+T 1659195130   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+T 1659195130   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+T 1659195130   UNQUIET   URL       USELECT   USERLIST  VOICE
+T 1659195130   WALLCHAN  WALLCHOP  
+T 1659195130 
+User defined commands:
+
+T 1659195130   ACTION    AME       ANICK     AMSG      BANLIST
+T 1659195130   CHAT      DIALOG    DMSG      EXIT      GREP
+T 1659195130   IGNALL    J         KILL      LEAVE     M
+T 1659195130   OMSG      ONOTICE   RAW       SERVHELP  SPING
+T 1659195130   SQUERY    SSLSERVER SV        UMODE     UPTIME
+T 1659195130   VER       VERSION   WALLOPS   WI        WII
+T 1659195130   
+T 1659195130 
+Plugin defined commands:
+
+T 1659195130   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+T 1659195130   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+T 1659195130   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+T 1659195130   RELOAD    UNLOAD    LOAD      ME        MSG+
+T 1659195130   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+T 1659195130   CHECKSUM  IDENTD    TIMER     
+T 1659195130 
+Type /HELP <command> for more information, or /HELP -l
+
+T 1659195286 23*	admin (admin@122.11.232.25323) has joined
+T 1659195413 19*	You have left channel 22#channel1 (24Leaving)
+T 1659195425 20*	Disconnected (20)
+T 1659195429 Not connected. Try /server <host> [<port>]
+T 1659195447 Not connected. Try /server <host> [<port>]
+T 1659195449 Unknown Command q. Try /help
+T 1659195452 
+Commands Available:
+
+T 1659195452   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+T 1659195452   AWAY      BACK      BAN       CHANOPT   CHARSET
+T 1659195452   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+T 1659195452   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+T 1659195452   DEVOICE   DISCON    DNS       DOAT      ECHO
+T 1659195452   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+T 1659195452   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+T 1659195452   GETSTR    GHOST     GUI       HELP      HOP
+T 1659195452   ID        IGNORE    INVITE    JOIN      KICK
+T 1659195452   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+T 1659195452   LOAD      MDEHOP    MDEOP     ME        MENU
+T 1659195452   MHOP      MKICK     MODE      MOP       MSG
+T 1659195452   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+T 1659195452   NOTIFY    OP        PART      PING      QUERY
+T 1659195452   QUIET     QUIT      QUOTE     RECONNECT RECV
+T 1659195452   RELOAD    SAY       SEND      SERVCHAN  SERVER
+T 1659195452   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+T 1659195452   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+T 1659195452   UNQUIET   URL       USELECT   USERLIST  VOICE
+T 1659195452   WALLCHAN  WALLCHOP  
+T 1659195452 
+User defined commands:
+
+T 1659195452   ACTION    AME       ANICK     AMSG      BANLIST
+T 1659195452   CHAT      DIALOG    DMSG      EXIT      GREP
+T 1659195452   IGNALL    J         KILL      LEAVE     M
+T 1659195452   OMSG      ONOTICE   RAW       SERVHELP  SPING
+T 1659195452   SQUERY    SSLSERVER SV        UMODE     UPTIME
+T 1659195452   VER       VERSION   WALLOPS   WI        WII
+T 1659195452   
+T 1659195452 
+Plugin defined commands:
+
+T 1659195452   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+T 1659195452   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+T 1659195452   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+T 1659195452   RELOAD    UNLOAD    LOAD      ME        MSG+
+T 1659195452   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+T 1659195452   CHECKSUM  IDENTD    TIMER     
+T 1659195452 
+Type /HELP <command> for more information, or /HELP -l
+
+T 1659195464 Unknown Command shutdown. Try /help
+T 1659195539 Unknown Command oper. Try /help
+T 1659195573 19*	Now talking on 22#channel1
+T 1659195576 20<jason>30	sdf
+T 1659195591 22*	2613.215.161.45 sets mode 24+o on 22jason
+T 1659195599 20<jason>30	kick admin
+T 1659195603 29*	#channel1 :You must be a channel half-operator
+T 1659195639 29*	#channel1 :You must be a channel half-operator
+T 1659195657 24*	admin (admin@122.11.232.25324) has left (Leaving)
+T 1659195686 19*	You have left channel 22#channel1 (24Leaving)
+T 1659195691 19*	Now talking on 22#channel1
+T 1659195712 23*	Ange (745754b8@87.98.219.11723) has joined
+T 1659195718 18<Ange18>	Hey sup
+T 1659195718 20<jason>30	Salutations
+T 1659195726 20<jason>30	Who is this?
+T 1659195730 20<jason>30	Angela?
+T 1659195737 18<Ange18>	This is pretty cool salutations
+T 1659195743 20<jason>30	Haha
+T 1659195748 18<Ange18>	Congrats !
+T 1659195749 20<jason>30	Liam referred this to you right
+T 1659195756 20<jason>30	This works everywhere
+T 1659195756 18<Ange18>	Yeap
+T 1659195762 18<Ange18>	Oh wow
+T 1659195775 18<Ange18>	I just woke up
+T 1659195795 18<Ange18>	I'm so so awake
+T 1659195797 20<jason>30	Ha
+T 1659195820 18<Ange18>	I'm probably gonna go grab dinner in a minute but I wanted to say that this was really cool first
+T 1659195829 18<Ange18>	I know you worked super hard on this
+T 1659195833 20<jason>30	We no longer have to submit to the Zuckerbergs
+T 1659195835 18<Ange18>	You should be proud
+T 1659195838 20<jason>30	Haha
+T 1659195840 18<Ange18>	TRUE
+T 1659195854 18<Ange18>	Zucker can go fly a kite
+T 1659195861 20<jason>30	@Ange that is funny
+T 1659195867 18<Ange18>	We have a new server in town
+T 1659195877 20<jason>30	yep
+T 1659195878 18<Ange18>	Anyways
+T 1659195888 18<Ange18>	I ll see ya on monday !
+T 1659195893 24*	Ange has quit (Quit: Connection closed)
+T 1659195894 20<jason>30	See you!
+T 1659197094 23*	jasonphone (6f413dfa@87.98.219.11723) has joined
+T 1659197103 18<jasonphone18>	Test on cell phone
+T 1659197114 24*	jasonphone has quit (Client exited)
+T 1659197271 20*	Disconnected (20)
+T 1659197273 Not connected. Try /server <host> [<port>]
+T 1659197274 Not connected. Try /server <host> [<port>]
+T 1659197275 FiSHLiM plugin unloaded
+T 1659197353 19*	Now talking on 22#channel1
+T 1659197420 20*	Disconnected (20Remote host closed socket)
+T 1659197436 19*	Now talking on 22#channel1
+T 1659197635 23*	Ange (745754b8@87.98.219.11723) has joined
+T 1659197672 18<Ange18>	Hey so can you use this on multiple devices ?
+T 1659197678 20<jason>30	yep
+T 1659197681 18<Ange18>	Oh wow
+T 1659197693 18<Ange18>	What are the limitations ?
+T 1659197701 20<jason>30	You can even create your own channel
+T 1659197706 20<jason>30	and be an admin
+T 1659197710 18<Ange18>	Cause from what I've seen this is pretty solid
+T 1659197719 20<jason>30	just type "/join #whateverchannelname"
+T 1659197753 18<Ange18>	I found a little make channel button
+T 1659197761 18<Ange18>	Seems intuitive enough
+T 1659197835 20<jason>30	This is like a simpler but more private version of discord
+T 1659197854 20<jason>30	Except discord doesn't have your data
+T 1659198578 24*	Ange has quit (Ping timeout: 121 seconds)
+T 1659236460 20*	Disconnected (20)
+T 1659236483 19*	Now talking on 22#channel1
+T 1659236483 20*	Disconnected (20)
+T 1659236488 20*	Disconnected (20)
+T 1659236496 19*	Now talking on 22#channel1
+T 1659236504 20<jason>30	hola
+T 1659236508 20<jason>30	como estas
+T 1659236919 20<jason>30	sadf
+T 1659275767 19*	Now talking on 22#channel1
+T 1659275951 20<jason>30	Hola
+T 1659275960 20*	Disconnected (20)
+T 1659275961 Not connected. Try /server <host> [<port>]
+T 1659275962 Not connected. Try /server <host> [<port>]
+T 1659275962 FiSHLiM plugin unloaded
+T 1659278580 19*	Now talking on 22#channel1
+T 1659278594 20<jason>30	hola
+T 1659278598 20<jason>30	como estas!
+T 1659279499 20<jason>30	sachon
+T 1659279509 20<jason>30	I eat kids
+T 1659279517 20<jason>30	I eat lots of kids
+T 1659279524 20<jason>30	like Zeus
+T 1659331820 20*	Disconnected (20)
+T 1659348842 19*	Now talking on 22#channel1
+T 1659352663 20*	Disconnected (20)
+T 1659352664 Not connected. Try /server <host> [<port>]
+T 1659352665 Not connected. Try /server <host> [<port>]
+T 1659352666 FiSHLiM plugin unloaded
+T 1659712070 19*	Now talking on 22#channel1

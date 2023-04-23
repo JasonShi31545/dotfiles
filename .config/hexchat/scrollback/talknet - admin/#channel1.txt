@@ -1,0 +1,8 @@
+T 1659195286 19*	Now talking on 22#channel1
+T 1659195290 29*	#channel1 :You must be a channel operator
+T 1659195413 24*	jason (jason@122.11.232.25324) has left (Leaving)
+T 1659195573 23*	jason (admin@122.11.232.25323) has joined
+T 1659195576 18<jason18>	sdf
+T 1659195599 19<jason>	kick admin
+T 1659195612 29*	#channel1 :You must be a channel half-operator
+T 1659195657 19*	You have left channel 22#channel1 (24Leaving)

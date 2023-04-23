@@ -1,0 +1,7 @@
+Linux jsfedora 5.19.6-200.fc36.x86_64 #1 SMP PREEMPT_DYNAMIC Wed Aug 31 17:58:15 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+
+osType=Linux
+cpuType=i386
+
+PATH=/usr/bin/:/home/jasonshi/.config/libreoffice/4/user/uno_packages/cache/uno_packages/lu2909873y5u5x.tmp_/TexMaths-0-v2.49.oxt/bin/Linuxi386:/home/jasonshi/.local/bin:/home/jasonshi/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin
+

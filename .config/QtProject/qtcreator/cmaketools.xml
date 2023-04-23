@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorCMakeTools>
+<!-- Written by QtCreator 7.0.2, 2022-10-19T22:56:59. -->
+<qtcreator>
+ <data>
+  <variable>CMakeTools.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="AutoCreateBuildDirectory">false</value>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="bool" key="AutoRun">true</value>
+   <value type="QString" key="Binary">/usr/bin/cmake</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">System CMake at /usr/bin/cmake</value>
+   <value type="QString" key="Id">{89c76873-bd10-42a7-8d4c-5cee5cff5880}</value>
+   <value type="QString" key="QchFile"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>CMakeTools.Count</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>CMakeTools.Default</variable>
+  <value type="QString">{89c76873-bd10-42a7-8d4c-5cee5cff5880}</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>

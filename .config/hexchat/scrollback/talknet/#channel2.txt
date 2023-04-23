@@ -1,0 +1,74 @@
+T 1659193610 19*	Now talking on 22#channel2
+T 1659193619 18<test18>	Hi from channel 2
+T 1659193627 20<jason>30	Shut the fuck up
+T 1659193630 29*	#channel2 :You must be a channel operator
+T 1659193639 29*	#channel2 :You must be a channel operator
+T 1659193652 22*	2613.215.161.45 sets mode 24+o on 22jason
+T 1659193656 20<jason>30	kick test
+T 1659193661 29*	#channel2 :You must be a channel operator
+T 1659193715 Bad arguments for user command.
+T 1659193718 Bad arguments for user command.
+T 1659193719 
+Commands Available:
+
+T 1659193719   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+T 1659193719   AWAY      BACK      BAN       CHANOPT   CHARSET
+T 1659193719   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+T 1659193719   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+T 1659193719   DEVOICE   DISCON    DNS       DOAT      ECHO
+T 1659193719   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+T 1659193719   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+T 1659193719   GETSTR    GHOST     GUI       HELP      HOP
+T 1659193719   ID        IGNORE    INVITE    JOIN      KICK
+T 1659193719   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+T 1659193719   LOAD      MDEHOP    MDEOP     ME        MENU
+T 1659193719   MHOP      MKICK     MODE      MOP       MSG
+T 1659193719   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+T 1659193719   NOTIFY    OP        PART      PING      QUERY
+T 1659193719   QUIET     QUIT      QUOTE     RECONNECT RECV
+T 1659193719   RELOAD    SAY       SEND      SERVCHAN  SERVER
+T 1659193719   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+T 1659193719   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+T 1659193719   UNQUIET   URL       USELECT   USERLIST  VOICE
+T 1659193719   WALLCHAN  WALLCHOP  
+T 1659193719 
+User defined commands:
+
+T 1659193719   ACTION    AME       ANICK     AMSG      BANLIST
+T 1659193719   CHAT      DIALOG    DMSG      EXIT      GREP
+T 1659193719   IGNALL    J         KILL      LEAVE     M
+T 1659193719   OMSG      ONOTICE   RAW       SERVHELP  SPING
+T 1659193719   SQUERY    SSLSERVER SV        UMODE     UPTIME
+T 1659193719   VER       VERSION   WALLOPS   WI        WII
+T 1659193719   
+T 1659193719 
+Plugin defined commands:
+
+T 1659193719   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+T 1659193719   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+T 1659193719   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+T 1659193719   RELOAD    UNLOAD    LOAD      ME        MSG+
+T 1659193719   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+T 1659193719   CHECKSUM  IDENTD    TIMER     
+T 1659193719 
+Type /HELP <command> for more information, or /HELP -l
+
+T 1659193724 20<jason>30	nice
+T 1659193792 22*	2613.215.161.45 sets mode 24+o on 22jason
+T 1659193799 18<test18>	asd
+T 1659193802 29*	#channel2 :You must be a channel operator
+T 1659193819 19*	You have been kicked from 22#channel2 by 26test (20test)
+T 1659193862 19*	Now talking on 22#channel2
+T 1659193865 20<jason>30	ls
+T 1659193869 18<test18>	-_-
+T 1659193873 18<test18>	(y) (y) (y)
+T 1659193877 18<test18>	X)
+T 1659193882 18<test18>	D: D: D:
+T 1659193887 18<test18>	</3 </3 </3
+T 1659193892 18<test18>	O:3 O:3 O:3
+T 1659193899 20<jason>30	nice
+T 1659193906 20<jason>30	696969
+T 1659194366 18<test18>	ls
+T 1659194371 24*	test has quit (Client exited)
+T 1659194386 23*	test (7a0bb280@87.98.219.11723) has joined
+T 1659194399 24*	test (7a0bb280@87.98.219.11724) has left

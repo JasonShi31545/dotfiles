@@ -1,0 +1,24 @@
+{
+	"windowstate": {
+		"isFullScreen": false,
+		"isMaximized": false,
+		"width": 589,
+		"height": 1056,
+		"x": 3802,
+		"y": 1070,
+		"frame": true,
+		"screenLayout": "0:0:1920:1080-0:1080:1920:1080-1920:0:3840:2160"
+	},
+	"workspaces": [
+		{
+			"x": 3802,
+			"y": 1070,
+			"width": 589,
+			"height": 1056,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/home/jasonshi/Arduino/motor",
+			"time": 1668005360626
+		}
+	]
+}

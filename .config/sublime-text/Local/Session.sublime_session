@@ -1,0 +1,797 @@
+{
+	"file_history":
+	[
+		"/home/jasonshi/codingquest/snake.cc",
+		"/home/jasonshi/codingquest/indext.cc",
+		"/home/jasonshi/codingquest/shopping.cc",
+		"/home/jasonshi/codingquest/^",
+		"/home/jasonshi/test.py",
+		"/home/jasonshi/wordle.py",
+		"/home/jasonshi/fib.java",
+		"/home/jasonshi/a.cc",
+		"/home/jasonshi/a,cc",
+		"/home/jasonshi/PycharmProjects/dsImplementations/avl.cc",
+		"/home/jasonshi/PycharmProjects/dsImplementations/heap.h",
+		"/home/jasonshi/PycharmProjects/dsImplementations/heap.cc",
+		"/home/jasonshi/PycharmProjects/dsImplementations/avl./cc",
+		"/home/jasonshi/PycharmProjects/dsImplementations/heap.py",
+		"/home/jasonshi/avl.cc",
+		"/home/jasonshi/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/jasonshi/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/jasonshi/Documents/codeforces/different_differences.cc",
+		"/home/jasonshi/eight_queens.py",
+		"/home/jasonshi/fenwick.cc",
+		"/home/jasonshi/Downloads/ventoy-1.0.84/Ventoy2Disk.sh",
+		"/home/jasonshi/PycharmProjects/mass_spring_system/main.py",
+		"/home/jasonshi/Documents/imgui/imgui/examples/example_glfw_vulkan/main.cpp",
+		"/home/jasonshi/Downloads/h catagory.csv"
+	],
+	"folder_history":
+	[
+		"/home/jasonshi/Downloads/mc-4.8.28",
+		"/home/jasonshi/Documents/cryptopp",
+		"/home/jasonshi/Documents/mmencryptor/MMEncryptor"
+	],
+	"last_version": 4143,
+	"last_window_id": 10,
+	"log_indexing": false,
+	"next_update_check": 1682005885,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1066.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			964.0,
+			34.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max_",
+						"max_height"
+					],
+					[
+						"max",
+						"max_width"
+					],
+					[
+						"print",
+						"printTreeArray"
+					],
+					[
+						"int",
+						"insertionIndex"
+					],
+					[
+						"inser",
+						"insertionIndex"
+					],
+					[
+						"temp_",
+						"temp_id"
+					],
+					[
+						"avl",
+						"avl_bst_remove"
+					],
+					[
+						"ba",
+						"balance_subtree"
+					],
+					[
+						"bala",
+						"balance_subtree"
+					],
+					[
+						"baal",
+						"balance_subtree"
+					],
+					[
+						"balan",
+						"balance_subtree"
+					],
+					[
+						"righ",
+						"right"
+					],
+					[
+						"bfs",
+						"bfs_print_height"
+					],
+					[
+						"bfsp",
+						"bfs_print"
+					],
+					[
+						"bfs_print",
+						"bfs_print_balance"
+					],
+					[
+						"bfs_",
+						"bfs_print_height"
+					],
+					[
+						"rig",
+						"right_rotate"
+					],
+					[
+						"ge",
+						"height"
+					],
+					[
+						"current",
+						"current_dis"
+					],
+					[
+						"curren",
+						"current_dis"
+					],
+					[
+						"gener",
+						"generate_grid"
+					],
+					[
+						"random",
+						"random_number"
+					],
+					[
+						"check",
+						"check_block"
+					],
+					[
+						"coordin",
+						"coordinates_to_check"
+					],
+					[
+						"coord",
+						"coordinates"
+					],
+					[
+						"sub",
+						"subtractend_hour"
+					],
+					[
+						"minend",
+						"minuend_hour"
+					],
+					[
+						"subtr",
+						"subtractend_minute"
+					],
+					[
+						"min",
+						"minuend_minute"
+					],
+					[
+						"sutb",
+						"subtractend_hour"
+					],
+					[
+						"minu",
+						"minute"
+					],
+					[
+						"subtra",
+						"subtractend_hour"
+					],
+					[
+						"s",
+						"subtractend_minute"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jasonshi/codingquest/snake.cc",
+				"/home/jasonshi/codingquest/indext.cc",
+				"/home/jasonshi/codingquest/shopping.cc",
+				"/home/jasonshi/codingquest/^",
+				"/home/jasonshi/test.py",
+				"/home/jasonshi/wordle.py",
+				"/home/jasonshi/fib.java",
+				"/home/jasonshi/a.cc",
+				"/home/jasonshi/a,cc",
+				"/home/jasonshi/PycharmProjects/dsImplementations/avl.cc",
+				"/home/jasonshi/PycharmProjects/dsImplementations/heap.h",
+				"/home/jasonshi/PycharmProjects/dsImplementations/heap.cc",
+				"/home/jasonshi/PycharmProjects/dsImplementations/avl./cc",
+				"/home/jasonshi/PycharmProjects/dsImplementations/heap.py",
+				"/home/jasonshi/avl.cc",
+				"/home/jasonshi/Documents/codeforces/different_differences.cc",
+				"/home/jasonshi/eight_queens.py",
+				"/home/jasonshi/fenwick.cc",
+				"/home/jasonshi/Downloads/ventoy-1.0.84/Ventoy2Disk.sh",
+				"/home/jasonshi/PycharmProjects/mass_spring_system/main.py",
+				"/home/jasonshi/Documents/imgui/imgui/examples/example_glfw_vulkan/main.cpp",
+				"/home/jasonshi/Downloads/h catagory.csv",
+				"/home/jasonshi/Documents/sudoku/main.cc",
+				"/home/jasonshi/Documents/sudoku/first_generated.txt",
+				"/home/jasonshi/Downloads/mc-4.8.28/lib/tty/color-slang.h",
+				"/home/jasonshi/Downloads/mc-4.8.28/config.h.in",
+				"/home/jasonshi/Downloads/mc-4.8.28/lib/tty/color.h",
+				"/home/jasonshi/Documents/spoj/secret_code.cc",
+				"/home/jasonshi/Documents/codeforces/promo.cc",
+				"/home/jasonshi/Documents/mmencryptor/MMEncryptor",
+				"/home/jasonshi/Downloads/linux-5.19.9/samples/timers/hpet_example.c",
+				"/home/jasonshi/Documents/mmencryptor/MMEncryptor/fast_modular_exp.hh",
+				"/home/jasonshi/minkowski_diagrams.md",
+				"/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=share/backup_home/jason/Documents/novus_notas/Computatrum_Scientia/resources/learn/Learn_x_in_y_minutes/learncpp.cpp",
+				"/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=share/backup_home/jason/Documents/novus_notas/Computatrum_Scientia/resources/learn/Learn_x_in_y_minutes/learnc.c",
+				"/home/jasonshi/untitled.cpp",
+				"/home/jasonshi/Documents/codeforces/elts.cc",
+				"/home/jasonshi/Documents/codeforces/dmr.cc",
+				"/home/jasonshi/Documents/codeforces/rempref.cc",
+				"/home/jasonshi/Documents/codeforces/gf.cc"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 307.0,
+				"where_history":
+				[
+					"/home/jasonshi/Downloads/mc-4.8.28,<project filters>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"bst",
+					"id",
+					"slength",
+					"soare",
+					", ",
+					"\\n",
+					"biggerChildIndex",
+					"MaxHeap",
+					"                \n",
+					"insert(",
+					"MaxHeap",
+					"bfs_print_balance(root)",
+					"bfs_print_balance",
+					"bfs_print_height\\(root\\)",
+					"bfs_print_height(root)",
+					"insert",
+					"bst_insert",
+					"while",
+					"thsi.size",
+					"fenwick_Tree",
+					"availablility",
+					"0x1FF",
+					"bitset<9>",
+					"cyan",
+					"color",
+					"blue",
+					"color",
+					"background",
+					"blue",
+					"4",
+					"34",
+					"4",
+					"NCURSES",
+					"#define",
+					"HAVE_SLANG"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\", \"",
+					" ",
+					"smallerChildIndex",
+					"MinHeap",
+					"enqueue(",
+					"MinHeap",
+					"printBT(root, BALANCE_FACTOR)",
+					"printBT(root, HEIGHT)",
+					"avl_bst_insert",
+					"availability",
+					"0x3FF",
+					"bitset<10>"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 949.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max_",
+						"max_height"
+					],
+					[
+						"max",
+						"max_width"
+					],
+					[
+						"print",
+						"printTreeArray"
+					],
+					[
+						"int",
+						"insertionIndex"
+					],
+					[
+						"inser",
+						"insertionIndex"
+					],
+					[
+						"temp_",
+						"temp_id"
+					],
+					[
+						"avl",
+						"avl_bst_remove"
+					],
+					[
+						"ba",
+						"balance_subtree"
+					],
+					[
+						"bala",
+						"balance_subtree"
+					],
+					[
+						"baal",
+						"balance_subtree"
+					],
+					[
+						"balan",
+						"balance_subtree"
+					],
+					[
+						"righ",
+						"right"
+					],
+					[
+						"bfs",
+						"bfs_print_height"
+					],
+					[
+						"bfsp",
+						"bfs_print"
+					],
+					[
+						"bfs_print",
+						"bfs_print_balance"
+					],
+					[
+						"bfs_",
+						"bfs_print_height"
+					],
+					[
+						"rig",
+						"right_rotate"
+					],
+					[
+						"ge",
+						"height"
+					],
+					[
+						"current",
+						"current_dis"
+					],
+					[
+						"curren",
+						"current_dis"
+					],
+					[
+						"gener",
+						"generate_grid"
+					],
+					[
+						"random",
+						"random_number"
+					],
+					[
+						"check",
+						"check_block"
+					],
+					[
+						"coordin",
+						"coordinates_to_check"
+					],
+					[
+						"coord",
+						"coordinates"
+					],
+					[
+						"sub",
+						"subtractend_hour"
+					],
+					[
+						"minend",
+						"minuend_hour"
+					],
+					[
+						"subtr",
+						"subtractend_minute"
+					],
+					[
+						"min",
+						"minuend_minute"
+					],
+					[
+						"sutb",
+						"subtractend_hour"
+					],
+					[
+						"minu",
+						"minute"
+					],
+					[
+						"subtra",
+						"subtractend_hour"
+					],
+					[
+						"s",
+						"subtractend_minute"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jasonshi/codingquest/snake.cc",
+				"/home/jasonshi/codingquest/indext.cc",
+				"/home/jasonshi/codingquest/shopping.cc",
+				"/home/jasonshi/codingquest/^",
+				"/home/jasonshi/test.py",
+				"/home/jasonshi/wordle.py",
+				"/home/jasonshi/fib.java",
+				"/home/jasonshi/a.cc",
+				"/home/jasonshi/a,cc",
+				"/home/jasonshi/PycharmProjects/dsImplementations/avl.cc",
+				"/home/jasonshi/PycharmProjects/dsImplementations/heap.h",
+				"/home/jasonshi/PycharmProjects/dsImplementations/heap.cc",
+				"/home/jasonshi/PycharmProjects/dsImplementations/avl./cc",
+				"/home/jasonshi/PycharmProjects/dsImplementations/heap.py",
+				"/home/jasonshi/avl.cc",
+				"/home/jasonshi/Documents/codeforces/different_differences.cc",
+				"/home/jasonshi/eight_queens.py",
+				"/home/jasonshi/fenwick.cc",
+				"/home/jasonshi/Downloads/ventoy-1.0.84/Ventoy2Disk.sh",
+				"/home/jasonshi/PycharmProjects/mass_spring_system/main.py",
+				"/home/jasonshi/Documents/imgui/imgui/examples/example_glfw_vulkan/main.cpp",
+				"/home/jasonshi/Downloads/h catagory.csv",
+				"/home/jasonshi/Documents/sudoku/main.cc",
+				"/home/jasonshi/Documents/sudoku/first_generated.txt",
+				"/home/jasonshi/Downloads/mc-4.8.28/lib/tty/color-slang.h",
+				"/home/jasonshi/Downloads/mc-4.8.28/config.h.in",
+				"/home/jasonshi/Downloads/mc-4.8.28/lib/tty/color.h",
+				"/home/jasonshi/Documents/spoj/secret_code.cc",
+				"/home/jasonshi/Documents/codeforces/promo.cc",
+				"/home/jasonshi/Documents/mmencryptor/MMEncryptor",
+				"/home/jasonshi/Downloads/linux-5.19.9/samples/timers/hpet_example.c",
+				"/home/jasonshi/Documents/mmencryptor/MMEncryptor/fast_modular_exp.hh",
+				"/home/jasonshi/minkowski_diagrams.md",
+				"/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=share/backup_home/jason/Documents/novus_notas/Computatrum_Scientia/resources/learn/Learn_x_in_y_minutes/learncpp.cpp",
+				"/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=share/backup_home/jason/Documents/novus_notas/Computatrum_Scientia/resources/learn/Learn_x_in_y_minutes/learnc.c",
+				"/home/jasonshi/untitled.cpp",
+				"/home/jasonshi/Documents/codeforces/elts.cc",
+				"/home/jasonshi/Documents/codeforces/dmr.cc",
+				"/home/jasonshi/Documents/codeforces/rempref.cc",
+				"/home/jasonshi/Documents/codeforces/gf.cc"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 307.0,
+				"where_history":
+				[
+					"/home/jasonshi/Downloads/mc-4.8.28,<project filters>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"bst",
+					"id",
+					"slength",
+					"soare",
+					", ",
+					"\\n",
+					"biggerChildIndex",
+					"MaxHeap",
+					"                \n",
+					"insert(",
+					"MaxHeap",
+					"bfs_print_balance(root)",
+					"bfs_print_balance",
+					"bfs_print_height\\(root\\)",
+					"bfs_print_height(root)",
+					"insert",
+					"bst_insert",
+					"while",
+					"thsi.size",
+					"fenwick_Tree",
+					"availablility",
+					"0x1FF",
+					"bitset<9>",
+					"cyan",
+					"color",
+					"blue",
+					"color",
+					"background",
+					"blue",
+					"4",
+					"34",
+					"4",
+					"NCURSES",
+					"#define",
+					"HAVE_SLANG"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\", \"",
+					" ",
+					"smallerChildIndex",
+					"MinHeap",
+					"enqueue(",
+					"MinHeap",
+					"printBT(root, BALANCE_FACTOR)",
+					"printBT(root, HEIGHT)",
+					"avl_bst_insert",
+					"availability",
+					"0x3FF",
+					"bitset<10>"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,962,5,1911,1071,5760,2160,1",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

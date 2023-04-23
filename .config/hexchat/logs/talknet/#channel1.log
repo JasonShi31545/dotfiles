@@ -1,0 +1,342 @@
+**** BEGIN LOGGING AT Sat Jul 30 22:58:05 2022
+
+Jul 30 22:58:05 *	Now talking on #channel1
+Jul 30 22:58:08 <jason>	hello!
+Jul 30 22:58:52 
+Commands Available:
+
+Jul 30 22:58:52   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+Jul 30 22:58:52   AWAY      BACK      BAN       CHANOPT   CHARSET
+Jul 30 22:58:52   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+Jul 30 22:58:52   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+Jul 30 22:58:52   DEVOICE   DISCON    DNS       DOAT      ECHO
+Jul 30 22:58:52   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+Jul 30 22:58:52   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+Jul 30 22:58:52   GETSTR    GHOST     GUI       HELP      HOP
+Jul 30 22:58:52   ID        IGNORE    INVITE    JOIN      KICK
+Jul 30 22:58:52   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+Jul 30 22:58:52   LOAD      MDEHOP    MDEOP     ME        MENU
+Jul 30 22:58:52   MHOP      MKICK     MODE      MOP       MSG
+Jul 30 22:58:52   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+Jul 30 22:58:52   NOTIFY    OP        PART      PING      QUERY
+Jul 30 22:58:52   QUIET     QUIT      QUOTE     RECONNECT RECV
+Jul 30 22:58:52   RELOAD    SAY       SEND      SERVCHAN  SERVER
+Jul 30 22:58:52   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+Jul 30 22:58:52   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+Jul 30 22:58:52   UNQUIET   URL       USELECT   USERLIST  VOICE
+Jul 30 22:58:52   WALLCHAN  WALLCHOP  
+Jul 30 22:58:52 
+User defined commands:
+
+Jul 30 22:58:52   ACTION    AME       ANICK     AMSG      BANLIST
+Jul 30 22:58:52   CHAT      DIALOG    DMSG      EXIT      GREP
+Jul 30 22:58:52   IGNALL    J         KILL      LEAVE     M
+Jul 30 22:58:52   OMSG      ONOTICE   RAW       SERVHELP  SPING
+Jul 30 22:58:52   SQUERY    SSLSERVER SV        UMODE     UPTIME
+Jul 30 22:58:52   VER       VERSION   WALLOPS   WI        WII
+Jul 30 22:58:52   
+Jul 30 22:58:52 
+Plugin defined commands:
+
+Jul 30 22:58:52   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+Jul 30 22:58:52   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+Jul 30 22:58:52   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+Jul 30 22:58:52   RELOAD    UNLOAD    LOAD      ME        MSG+
+Jul 30 22:58:52   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+Jul 30 22:58:52   CHECKSUM  IDENTD    TIMER     
+Jul 30 22:58:52 
+Type /HELP <command> for more information, or /HELP -l
+
+Jul 30 22:59:17 <jason>	Hello from Jason
+Jul 30 22:59:30 <jason>	:Kajsdflsakjdf
+Jul 30 22:59:31 <jason>	akdsjfldf
+Jul 30 23:01:31 *	test (7a0bb280@87.98.219.117) has joined
+Jul 30 23:01:34 <test>	ls
+Jul 30 23:05:04 *	basumeat (6f412430@87.98.219.117) has joined
+Jul 30 23:05:15 <basumeat>	I devour children
+Jul 30 23:05:19 <jason>	Hi from Jason
+Jul 30 23:05:25 <jason>	Nice
+Jul 30 23:05:29 <jason>	I eat kids as well
+Jul 30 23:05:32 <basumeat>	literally me
+Jul 30 23:05:52 *	jason has kicked basumeat from #channel1 (jason)
+Jul 30 23:06:17 *	jason has kicked test from #channel1 (jason)
+Jul 30 23:08:56 <jason>	les
+Jul 30 23:09:01 *	test (7a0bb280@87.98.219.117) has joined
+Jul 30 23:09:07 <test>	I am back!
+Jul 30 23:09:13 
+Commands Available:
+
+Jul 30 23:09:13   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+Jul 30 23:09:13   AWAY      BACK      BAN       CHANOPT   CHARSET
+Jul 30 23:09:13   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+Jul 30 23:09:13   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+Jul 30 23:09:13   DEVOICE   DISCON    DNS       DOAT      ECHO
+Jul 30 23:09:13   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+Jul 30 23:09:13   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+Jul 30 23:09:13   GETSTR    GHOST     GUI       HELP      HOP
+Jul 30 23:09:13   ID        IGNORE    INVITE    JOIN      KICK
+Jul 30 23:09:13   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+Jul 30 23:09:13   LOAD      MDEHOP    MDEOP     ME        MENU
+Jul 30 23:09:13   MHOP      MKICK     MODE      MOP       MSG
+Jul 30 23:09:13   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+Jul 30 23:09:13   NOTIFY    OP        PART      PING      QUERY
+Jul 30 23:09:13   QUIET     QUIT      QUOTE     RECONNECT RECV
+Jul 30 23:09:13   RELOAD    SAY       SEND      SERVCHAN  SERVER
+Jul 30 23:09:13   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+Jul 30 23:09:13   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+Jul 30 23:09:13   UNQUIET   URL       USELECT   USERLIST  VOICE
+Jul 30 23:09:13   WALLCHAN  WALLCHOP  
+Jul 30 23:09:13 
+User defined commands:
+
+Jul 30 23:09:13   ACTION    AME       ANICK     AMSG      BANLIST
+Jul 30 23:09:13   CHAT      DIALOG    DMSG      EXIT      GREP
+Jul 30 23:09:13   IGNALL    J         KILL      LEAVE     M
+Jul 30 23:09:13   OMSG      ONOTICE   RAW       SERVHELP  SPING
+Jul 30 23:09:13   SQUERY    SSLSERVER SV        UMODE     UPTIME
+Jul 30 23:09:13   VER       VERSION   WALLOPS   WI        WII
+Jul 30 23:09:13   
+Jul 30 23:09:13 
+Plugin defined commands:
+
+Jul 30 23:09:13   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+Jul 30 23:09:13   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+Jul 30 23:09:13   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+Jul 30 23:09:13   RELOAD    UNLOAD    LOAD      ME        MSG+
+Jul 30 23:09:13   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+Jul 30 23:09:13   CHECKSUM  IDENTD    TIMER     
+Jul 30 23:09:13 
+Type /HELP <command> for more information, or /HELP -l
+
+Jul 30 23:09:16 *	jason has kicked test from #channel1 (jason)
+Jul 30 23:13:54 <jason>	lpo
+Jul 30 23:14:25 <jason>	ls
+Jul 30 23:16:05 <jason>	clear
+Jul 30 23:16:13 *	test (7a0bb280@87.98.219.117) has joined
+Jul 30 23:16:17 <test>	dsf
+Jul 30 23:16:25 *	smellypants123 (84937755@87.98.219.117) has joined
+Jul 30 23:16:30 <jason>	Hi
+Jul 30 23:16:31 <smellypants123>	is eric here
+Jul 30 23:16:34 <jason>	Yes
+Jul 30 23:16:37 <jason>	I am Eric
+Jul 30 23:16:41 <smellypants123>	ohhhh
+Jul 30 23:16:44 <smellypants123>	i thought eric was test
+Jul 30 23:16:47 <smellypants123>	hi test
+Jul 30 23:16:47 <jason>	Yeah
+Jul 30 23:16:51 <smellypants123>	this is kinda cool
+Jul 30 23:16:55 <smellypants123>	does this work on school wifi?
+Jul 30 23:16:55 <jason>	It is cool
+Jul 30 23:16:57 <jason>	Yes
+Jul 30 23:17:01 <smellypants123>	this is big
+Jul 30 23:17:02 <jason>	It works globally
+Jul 30 23:17:08 <smellypants123>	i can finally spam wayan
+Jul 30 23:17:11 <smellypants123>	thats huge
+Jul 30 23:17:12 <jason>	Yep
+Jul 30 23:17:13 <smellypants123>	this is kinda wesome
+Jul 30 23:17:17 <smellypants123>	awesome
+Jul 30 23:17:24 <smellypants123>	im doing physics work
+Jul 30 23:17:32 <jason>	Keep up the Physics work
+Jul 30 23:17:35 <smellypants123>	gotta get more people
+Jul 30 23:17:40 <jason>	Yes!
+Jul 30 23:17:46 <smellypants123>	how many people can your server hold
+Jul 30 23:17:49 <jason>	Send my instructions to the group chat
+Jul 30 23:17:55 <jason>	I don't know
+Jul 30 23:17:58 <jason>	maybe 100
+Jul 30 23:18:04 <jason>	Text are simple to process
+Jul 30 23:18:08 <smellypants123>	yeah i will send
+Jul 30 23:18:16 <smellypants123>	no no surely text is super hard
+Jul 30 23:18:38 <jason>	Alright, see you on Monday
+Jul 30 23:19:31 <smellypants123>	good night jason
+Jul 30 23:19:31 *	test has quit (Client exited)
+Jul 30 23:19:37 <smellypants123>	bye test
+Jul 30 23:19:47 *	test (7a0bb280@87.98.219.117) has joined
+Jul 30 23:19:53 *	test (7a0bb280@87.98.219.117) has left
+Jul 30 23:19:54 <smellypants123>	welcome test
+Jul 30 23:19:55 <smellypants123>	ah
+Jul 30 23:19:57 <smellypants123>	bye test
+Jul 30 23:20:02 <jason>	Farewell test
+Jul 30 23:22:03 
+Commands Available:
+
+Jul 30 23:22:03   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+Jul 30 23:22:03   AWAY      BACK      BAN       CHANOPT   CHARSET
+Jul 30 23:22:03   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+Jul 30 23:22:03   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+Jul 30 23:22:03   DEVOICE   DISCON    DNS       DOAT      ECHO
+Jul 30 23:22:03   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+Jul 30 23:22:03   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+Jul 30 23:22:03   GETSTR    GHOST     GUI       HELP      HOP
+Jul 30 23:22:03   ID        IGNORE    INVITE    JOIN      KICK
+Jul 30 23:22:03   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+Jul 30 23:22:03   LOAD      MDEHOP    MDEOP     ME        MENU
+Jul 30 23:22:03   MHOP      MKICK     MODE      MOP       MSG
+Jul 30 23:22:03   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+Jul 30 23:22:03   NOTIFY    OP        PART      PING      QUERY
+Jul 30 23:22:03   QUIET     QUIT      QUOTE     RECONNECT RECV
+Jul 30 23:22:03   RELOAD    SAY       SEND      SERVCHAN  SERVER
+Jul 30 23:22:03   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+Jul 30 23:22:03   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+Jul 30 23:22:03   UNQUIET   URL       USELECT   USERLIST  VOICE
+Jul 30 23:22:03   WALLCHAN  WALLCHOP  
+Jul 30 23:22:03 
+User defined commands:
+
+Jul 30 23:22:03   ACTION    AME       ANICK     AMSG      BANLIST
+Jul 30 23:22:03   CHAT      DIALOG    DMSG      EXIT      GREP
+Jul 30 23:22:03   IGNALL    J         KILL      LEAVE     M
+Jul 30 23:22:03   OMSG      ONOTICE   RAW       SERVHELP  SPING
+Jul 30 23:22:03   SQUERY    SSLSERVER SV        UMODE     UPTIME
+Jul 30 23:22:03   VER       VERSION   WALLOPS   WI        WII
+Jul 30 23:22:03   
+Jul 30 23:22:03 
+Plugin defined commands:
+
+Jul 30 23:22:03   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+Jul 30 23:22:03   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+Jul 30 23:22:03   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+Jul 30 23:22:03   RELOAD    UNLOAD    LOAD      ME        MSG+
+Jul 30 23:22:03   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+Jul 30 23:22:03   CHECKSUM  IDENTD    TIMER     
+Jul 30 23:22:03 
+Type /HELP <command> for more information, or /HELP -l
+
+Jul 30 23:22:14 *	#channel1 :End of channel ban list
+Jul 30 23:25:14 *	test2 (7a0be8fd@87.98.219.117) has joined
+Jul 30 23:25:27 <test2>	this is an account with password
+Jul 30 23:26:20 *	test296 (7a0be8fd@87.98.219.117) has joined
+Jul 30 23:26:32 *	test296 (7a0be8fd@87.98.219.117) has left
+Jul 30 23:26:36 *	test2 (7a0be8fd@87.98.219.117) has left
+Jul 30 23:26:42 <smellypants123>	WELCOME TEST
+Jul 30 23:26:44 <smellypants123>	NOOOO TEST
+Jul 30 23:26:50 <jason>	Dude why are you still here
+Jul 30 23:27:00 <jason>	wow
+Jul 30 23:27:16 <jason>	turns out you can set a password
+Jul 30 23:27:24 <jason>	so people won't impersonate you
+Jul 30 23:27:25 <smellypants123>	thats coool
+Jul 30 23:27:28 <smellypants123>	IMPOSTER
+Jul 30 23:27:31 *	smellypants123 has quit (Quit: Connection closed)
+Jul 30 23:29:39 Bad arguments for user command.
+Jul 30 23:29:42 Usage: PART [<channel>] [<reason>], leaves the channel, by default the current one
+Jul 30 23:29:48 *	You have left channel #channel1 (Leaving)
+**** ENDING LOGGING AT Sat Jul 30 23:29:48 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 23:31:52 2022
+
+Jul 30 23:31:52 *	Now talking on #channel1
+Jul 30 23:32:10 
+Commands Available:
+
+Jul 30 23:32:10   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+Jul 30 23:32:10   AWAY      BACK      BAN       CHANOPT   CHARSET
+Jul 30 23:32:10   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+Jul 30 23:32:10   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+Jul 30 23:32:10   DEVOICE   DISCON    DNS       DOAT      ECHO
+Jul 30 23:32:10   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+Jul 30 23:32:10   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+Jul 30 23:32:10   GETSTR    GHOST     GUI       HELP      HOP
+Jul 30 23:32:10   ID        IGNORE    INVITE    JOIN      KICK
+Jul 30 23:32:10   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+Jul 30 23:32:10   LOAD      MDEHOP    MDEOP     ME        MENU
+Jul 30 23:32:10   MHOP      MKICK     MODE      MOP       MSG
+Jul 30 23:32:10   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+Jul 30 23:32:10   NOTIFY    OP        PART      PING      QUERY
+Jul 30 23:32:10   QUIET     QUIT      QUOTE     RECONNECT RECV
+Jul 30 23:32:10   RELOAD    SAY       SEND      SERVCHAN  SERVER
+Jul 30 23:32:10   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+Jul 30 23:32:10   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+Jul 30 23:32:10   UNQUIET   URL       USELECT   USERLIST  VOICE
+Jul 30 23:32:10   WALLCHAN  WALLCHOP  
+Jul 30 23:32:10 
+User defined commands:
+
+Jul 30 23:32:10   ACTION    AME       ANICK     AMSG      BANLIST
+Jul 30 23:32:10   CHAT      DIALOG    DMSG      EXIT      GREP
+Jul 30 23:32:10   IGNALL    J         KILL      LEAVE     M
+Jul 30 23:32:10   OMSG      ONOTICE   RAW       SERVHELP  SPING
+Jul 30 23:32:10   SQUERY    SSLSERVER SV        UMODE     UPTIME
+Jul 30 23:32:10   VER       VERSION   WALLOPS   WI        WII
+Jul 30 23:32:10   
+Jul 30 23:32:10 
+Plugin defined commands:
+
+Jul 30 23:32:10   UNLOAD    TRAY      SYSINFO   PY        RELOAD
+Jul 30 23:32:10   UNLOAD    LOAD      PL        RELOADALL UNLOADALL
+Jul 30 23:32:10   PL_RELOAD RELOAD    UNLOAD    LOAD      LUA
+Jul 30 23:32:10   RELOAD    UNLOAD    LOAD      ME        MSG+
+Jul 30 23:32:10   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+Jul 30 23:32:10   CHECKSUM  IDENTD    TIMER     
+Jul 30 23:32:10 
+Type /HELP <command> for more information, or /HELP -l
+
+Jul 30 23:34:46 *	admin (admin@122.11.232.253) has joined
+Jul 30 23:36:53 *	You have left channel #channel1 (Leaving)
+**** ENDING LOGGING AT Sat Jul 30 23:36:53 2022
+
+**** BEGIN LOGGING AT Sun Jul 31 00:09:13 2022
+
+Jul 31 00:09:13 *	Now talking on #channel1
+Jul 31 00:10:20 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sun Jul 31 00:10:20 2022
+
+**** BEGIN LOGGING AT Sun Jul 31 00:10:36 2022
+
+Jul 31 00:10:36 *	Now talking on #channel1
+Jul 31 00:13:55 *	Ange (745754b8@87.98.219.117) has joined
+Jul 31 00:14:32 <Ange>	Hey so can you use this on multiple devices ?
+Jul 31 00:14:38 <jason>	yep
+Jul 31 00:14:41 <Ange>	Oh wow
+Jul 31 00:14:53 <Ange>	What are the limitations ?
+Jul 31 00:15:01 <jason>	You can even create your own channel
+Jul 31 00:15:06 <jason>	and be an admin
+Jul 31 00:15:10 <Ange>	Cause from what I've seen this is pretty solid
+Jul 31 00:15:19 <jason>	just type "/join #whateverchannelname"
+Jul 31 00:15:53 <Ange>	I found a little make channel button
+Jul 31 00:16:01 <Ange>	Seems intuitive enough
+Jul 31 00:17:15 <jason>	This is like a simpler but more private version of discord
+Jul 31 00:17:34 <jason>	Except discord doesn't have your data
+Jul 31 00:29:38 *	Ange has quit (Ping timeout: 121 seconds)
+Jul 31 11:01:00 *	Disconnected ()
+**** ENDING LOGGING AT Sun Jul 31 11:01:00 2022
+
+**** BEGIN LOGGING AT Sun Jul 31 11:01:23 2022
+
+Jul 31 11:01:23 *	Now talking on #channel1
+Jul 31 11:01:23 *	Disconnected ()
+**** ENDING LOGGING AT Sun Jul 31 11:01:23 2022
+
+**** BEGIN LOGGING AT Sun Jul 31 11:01:36 2022
+
+Jul 31 11:01:36 *	Now talking on #channel1
+Jul 31 11:01:44 <jason>	hola
+Jul 31 11:01:48 <jason>	como estas
+Jul 31 11:08:39 <jason>	sadf
+**** BEGIN LOGGING AT Sun Jul 31 21:56:07 2022
+
+Jul 31 21:56:07 *	Now talking on #channel1
+Jul 31 21:59:11 <jason>	Hola
+Jul 31 21:59:20 *	Disconnected ()
+**** ENDING LOGGING AT Sun Jul 31 21:59:20 2022
+
+**** BEGIN LOGGING AT Sun Jul 31 22:43:00 2022
+
+Jul 31 22:43:00 *	Now talking on #channel1
+Jul 31 22:43:14 <jason>	hola
+Jul 31 22:43:18 <jason>	como estas!
+Jul 31 22:58:19 <jason>	sachon
+Jul 31 22:58:29 <jason>	I eat kids
+Jul 31 22:58:37 <jason>	I eat lots of kids
+Jul 31 22:58:44 <jason>	like Zeus
+Aug 01 13:30:20 *	Disconnected ()
+**** ENDING LOGGING AT Mon Aug  1 13:30:20 2022
+
+**** BEGIN LOGGING AT Mon Aug  1 18:14:02 2022
+
+Aug 01 18:14:02 *	Now talking on #channel1
+Aug 01 19:17:43 *	Disconnected ()
+**** ENDING LOGGING AT Mon Aug  1 19:17:43 2022
+
+**** BEGIN LOGGING AT Fri Aug  5 23:07:50 2022
+
+Aug 05 23:07:50 *	Now talking on #channel1
+**** ENDING LOGGING AT Fri Aug  5 23:08:02 2022
+

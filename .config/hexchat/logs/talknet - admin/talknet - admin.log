@@ -1,0 +1,14 @@
+**** BEGIN LOGGING AT Sat Jul 30 23:34:17 2022
+
+Jul 30 23:34:17 *	*** Looking up your hostname...
+Jul 30 23:34:23 *	*** Could not resolve your hostname: Request timed out; using your IP address (122.11.232.253) instead.
+Jul 30 23:34:23 *	Welcome to TalkNet!
+**** ENDING LOGGING AT Sat Jul 30 23:34:23 2022
+
+**** BEGIN LOGGING AT Sat Jul 30 23:34:23 2022
+
+Jul 30 23:34:23 *	Welcome to the TalkNet IRC Network admin!admin@122.11.232.253
+Jul 30 23:34:23 *	Your host is 13.215.161.45, running version InspIRCd-2.0
+Jul 30 23:34:23 *	This server was created on Debian
+Jul 30 23:34:23 *	13.215.161.45 InspIRCd-2.0 iosw biklmnopstv bklov
+Jul 30 23:34:23 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server

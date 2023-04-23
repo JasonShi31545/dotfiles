@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------------
+[12 Jul 2022, 10:51:40.2 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 10:51:40.2 pm:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[12 Jul 2022, 10:51:40.2 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 10:51:40.2 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[12 Jul 2022, 10:51:40.2 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 10:51:40.2 pm:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[12 Jul 2022, 10:51:40.2 pm:ERROR:get_prefix_list.cc(58)] Invalid server response for publisher prefix list
+[12 Jul 2022, 10:51:40.2 pm:ERROR:publisher_prefix_list_updater.cc(77)] Invalid server response for publisher prefix list
+[12 Jul 2022, 10:51:41.2 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 10:51:41.2 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[12 Jul 2022, 10:56:13.2 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 10:56:13.2 pm:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[12 Jul 2022, 10:56:13.2 pm:ERROR:get_prefix_list.cc(58)] Invalid server response for publisher prefix list
+[12 Jul 2022, 10:56:13.2 pm:ERROR:publisher_prefix_list_updater.cc(77)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:08:01.4 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:08:01.4 pm:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:08:01.4 pm:ERROR:get_prefix_list.cc(58)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:08:01.4 pm:ERROR:publisher_prefix_list_updater.cc(77)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:09:04.2 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:09:04.2 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:13:41.3 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:13:41.3 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:17:47.5 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:17:47.5 pm:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:17:47.5 pm:ERROR:get_prefix_list.cc(58)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:17:47.5 pm:ERROR:publisher_prefix_list_updater.cc(77)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:18:03.5 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:18:03.5 pm:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:18:03.5 pm:ERROR:get_prefix_list.cc(58)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:18:03.5 pm:ERROR:publisher_prefix_list_updater.cc(77)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:23:11.3 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:23:11.3 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:35:15.4 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:35:15.4 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:38:26.5 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:38:26.5 pm:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:38:26.5 pm:ERROR:get_prefix_list.cc(58)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:38:26.5 pm:ERROR:publisher_prefix_list_updater.cc(77)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:41:49.6 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:41:49.6 pm:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:41:49.6 pm:ERROR:get_prefix_list.cc(58)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:41:49.6 pm:ERROR:publisher_prefix_list_updater.cc(77)] Invalid server response for publisher prefix list
+[12 Jul 2022, 11:45:14.5 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:45:14.5 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:45:37.5 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:45:37.5 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[12 Jul 2022, 11:58:03.5 pm:ERROR:logging_util.cc(105)] Network error (net::ERR_CERT_AUTHORITY_INVALID)
+[12 Jul 2022, 11:58:03.5 pm:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[13 Jul 2022, 12:21:40.5 am:ERROR:logging_util.cc(105)] Network error (net::ERR_TIMED_OUT)
+[13 Jul 2022, 12:21:40.5 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[13 Jul 2022, 12:28:50.6 am:ERROR:logging_util.cc(105)] Network error (net::ERR_TIMED_OUT)
+[13 Jul 2022, 12:28:50.6 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[13 Jul 2022, 12:37:55.7 am:ERROR:logging_util.cc(105)] Network error (net::ERR_TIMED_OUT)
+[13 Jul 2022, 12:37:55.7 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[13 Jul 2022, 12:43:03.8 am:ERROR:logging_util.cc(105)] Network error (net::ERR_TIMED_OUT)
+[13 Jul 2022, 12:43:03.9 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[13 Jul 2022, 12:48:55.0 am:ERROR:logging_util.cc(105)] Network error (net::ERR_TIMED_OUT)
+[13 Jul 2022, 12:48:55.0 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1

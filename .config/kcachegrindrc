@@ -1,0 +1,70 @@
+[CostColors]
+Count=0
+
+[CurrentState]
+EventType=?
+EventType2=?
+GroupType=Invalid Context
+
+[Docks]
+ForcePartDockVisible=false
+
+[EventTypes]
+Count=25
+Name1=Ir
+Name10=D2mw
+Name11=L2m
+Name12=ILmr
+Name13=DLmr
+Name14=DLmw
+Name15=LLm
+Name16=Bi
+Name17=Bim
+Name18=Bc
+Name19=Bcm
+Name2=Dr
+Name20=Bm
+Name21=Ge
+Name22=Smp
+Name23=Sys
+Name24=User
+Name25=CEst
+Name3=Dw
+Name4=I1mr
+Name5=D1mr
+Name6=D1mw
+Name7=L1m
+Name8=I2mr
+Name9=D2mr
+
+[Layouts]
+Count=1
+Current=0
+
+[MainView]
+ActivePanel=TabView-1
+PanelSizes=449
+Panels=1
+
+[MainView-TabView-1]
+ActiveBottom=
+ActiveTop=
+
+[MainWindow]
+DP-3 eDP-1 DP-2 Height 1920x1080=530
+DP-3 eDP-1 DP-2 Height 3840x2160=896
+DP-3 eDP-1 DP-2 Width 1920x1080=950
+DP-3 eDP-1 DP-2 Width 3840x2160=341
+DP-3 eDP-1 DP-2 XPosition 1920x1080=964
+DP-3 eDP-1 DP-2 XPosition 3840x2160=4369
+DP-3 eDP-1 DP-2 YPosition 1920x1080=544
+DP-3 eDP-1 DP-2 YPosition 3840x2160=1230
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADbAAABwfwCAAAAA/sAAAASAHAAYQByAHQAIABkAG8AYwBrAAAAAAD/////AAAAUQD////7AAAAFABzAHQAYQBjAGsAIABkAG8AYwBrAAAAAAD/////AAAAXwD////7AAAAGgBmAHUAbgBjAHQAaQBvAG4AIABkAG8AYwBrAQAAADsAAAHBAAAAfgD///8AAALVAAABwQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAcwB0AGEAdABlAFQAbwBvAGwAQgBhAHIBAAACt/////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Source]
+Count=0
+Dirs=
+
+[TipOfDay]
+RunOnStart=false
